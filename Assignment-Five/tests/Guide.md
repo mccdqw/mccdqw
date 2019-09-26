@@ -1,0 +1,1 @@
+What I did for the assignment is I wrote 5 different py files that had a function that passed and one that failed. I had a main py file that was used to have different functions. In all honesty I am not sure if the assignment was done correctly but I am pretty sure that the tests I wrote will pass and fail based on what I asserted for each function.
