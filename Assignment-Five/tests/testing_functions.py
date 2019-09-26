@@ -1,5 +1,5 @@
 import pytest
-import mainfile #used for student login
+import mainfile 
 
 
 def test_login():
